@@ -1,7 +1,5 @@
 package com.techyourchance.unittestingfundamentals.exercise3;
 
-import com.techyourchance.unittestingfundamentals.example3.Interval;
-
 import org.junit.Before;
 import org.junit.Test;
 
