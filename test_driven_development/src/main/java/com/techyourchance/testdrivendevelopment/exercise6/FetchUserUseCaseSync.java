@@ -12,6 +12,7 @@ interface FetchUserUseCaseSync {
     }
 
     class UseCaseResult {
+
         private final Status mStatus;
 
         @Nullable
